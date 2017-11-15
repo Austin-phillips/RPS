@@ -1,0 +1,54 @@
+html {background-color:black;}
+
+.header {
+  background: linear-gradient(#ff0000, #888888);
+  text-align: center;
+}
+.rock_img {
+  margin: 0 70 0 70;
+  border: 6px solid grey;
+}
+
+.paper_img {
+  margin: 0 70 0 70;
+  border: 6px solid grey;
+}
+
+.scissors_img {
+  margin: 0 70 0 70;
+  border: 6px solid grey;
+}
+
+body {
+  background:white;
+  margin: 200 40 50 40 ;
+  height: 1200px;
+}
+
+.output {
+  text-align: center;
+
+}
+
+#rock {
+  margin: 10 200 10 180;
+}
+
+#paper {
+  margin: 10 200 10 160;
+}
+
+#scissors {
+  margin: 10 150 10 120;
+}
+
+#img1 {
+  margin: 50 0 0 200;
+  float: left;
+}
+
+#img2 {
+  margin: 50 200 0 0;
+  float: right;
+}
+
